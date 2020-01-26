@@ -1,3 +1,4 @@
+{-# LANGUAGE TypeApplications #-}
 module Lib
     ( someFunc
     ) where
